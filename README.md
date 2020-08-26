@@ -7,3 +7,8 @@ It's here now, Open for you to change.
 [Hack Forums thread](https://hackforums.net/showthread.php?tid=6081634)
 
 https://quantumcored.com/claw.php
+
+### Usage
+Build Claw keylogger that's inside ``src``. 
+Build test Builder under ``tests``.
+Run Builder on the claw exe.
