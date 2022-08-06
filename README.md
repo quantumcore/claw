@@ -26,3 +26,6 @@ The Developer is not responsible for any misuse of Damage caused by the program.
 #### Donate
 Help me with my future projects. Thank you.
 [Donate](https://commerce.coinbase.com/checkout/cebcb394-f73e-4990-98b9-b3fdd852358f)
+
+#### Banner
+![Banner](https://github.com/quantumcore/claw/raw/master/banner.png)
